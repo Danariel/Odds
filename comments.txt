@@ -1,0 +1,14 @@
+This has been my first time using DOMDocument methods with PHP
+In theory, when using the method getElementsByTagName (for example) I understood I should receive all the elements inside the source code
+When testing I only received the elements under the <body> and none of the inside Nodes
+
+After realizing that, I tried to obtain the elements <li> that contain the required information 
+When trying to reach that path level, I was not getting the information that I was supposed to receive
+During the development of the code, the website had an update of code and the associated class where the info was changed name to 'event_types/Show'
+
+Until I realized that the received error of 0 nodes was because this, it took me a while.
+
+Also I realized that what I was receiving from this node were not more nodes, but plain JSON string with the data
+This also took me a bit to realize
+
+After obtaining that JSON string, obtaining the required data was easy

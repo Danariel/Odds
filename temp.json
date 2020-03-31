@@ -1,0 +1,1101 @@
+{
+    "games": [
+        {
+            "gameId": 1875238,
+            "gameDate": "2020-03-24T17: 00: 00.000Z",
+            "betRadarExternalId": null,
+            "homeScore": null,
+            "awayScore": null,
+            "gamePeriod": null,
+            "gameHasLiveBetting": false,
+            "moreBettingCount": 0,
+            "hasStats": 0,
+            "gameDay": "20200324",
+            "okForBetOpinions": false,
+            "gameName": "2020 Democratic Vice Presidential Candidate",
+            "gameTranslation": null,
+            "url": "section=events\u0026amp;eventTypeID=750\u0026amp;gameID=1875238\u0026amp;moreBets=true",
+            "mobileUrl": "action=events.events\u0026amp;etID=750\u0026amp;gameID=1875238",
+            "betTypeGroups": [
+                {
+                    "betTypeId": 180,
+                    "bettingType": "",
+                    "betTypes": [
+                        {
+                            "bettingType": "",
+                            "bettingTypeOrder": 0,
+                            "bettingTypeExtraInfo": "",
+                            "translation": "",
+                            "multipleWinners": false,
+                            "betTypeId": 180,
+                            "betTypeOrder": 1,
+                            "betTypeGroupingsCategoryId": null,
+                            "events": [
+                                {
+                                    "eventCategoryName": "Specials",
+                                    "eventGroupId": 71759458,
+                                    "eventDate": "2020-03-30T17: 03: 00.000Z",
+                                    "eventId": 71759458,
+                                    "places": 1,
+                                    "placeDiv": 1,
+                                    "live": true,
+                                    "narrative": null,
+                                    "future": true,
+                                    "sortEventBy": "currentPrice",
+                                    "priceDisplay": "decimal",
+                                    "distinctGames": 1,
+                                    "secondHalfOrdering": 0,
+                                    "pinataPick": false,
+                                    "runners": [
+                                        {
+                                            "runnerId": 202417091,
+                                            "runner": "Kamala Harris",
+                                            "handicap": 0.0,
+                                            "currentPrice": 1.6764,
+                                            "fractionPrice": "57/34",
+                                            "sortorder": 0,
+                                            "sortme": 1.6764,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 1533267,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417095,
+                                            "runner": "Amy Klobuchar",
+                                            "handicap": 0.0,
+                                            "currentPrice": 2.8246,
+                                            "fractionPrice": "161/57",
+                                            "sortorder": 0,
+                                            "sortme": 2.8246,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417114,
+                                            "runner": "Stacy Abrams",
+                                            "handicap": 0.0,
+                                            "currentPrice": 3.6795,
+                                            "fractionPrice": "287/78",
+                                            "sortorder": 0,
+                                            "sortme": 3.6795,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417093,
+                                            "runner": "Elizabeth Warren",
+                                            "handicap": 0.0,
+                                            "currentPrice": 9.0,
+                                            "fractionPrice": "9/1",
+                                            "sortorder": 0,
+                                            "sortme": 9.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 686077,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417096,
+                                            "runner": "Hillary Clinton",
+                                            "handicap": 0.0,
+                                            "currentPrice": 14.0,
+                                            "fractionPrice": "14/1",
+                                            "sortorder": 0,
+                                            "sortme": 14.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 641675,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417102,
+                                            "runner": "Michelle Obama",
+                                            "handicap": 0.0,
+                                            "currentPrice": 17.0,
+                                            "fractionPrice": "17/1",
+                                            "sortorder": 0,
+                                            "sortme": 17.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417092,
+                                            "runner": "Nina Turner",
+                                            "handicap": 0.0,
+                                            "currentPrice": 19.0,
+                                            "fractionPrice": "19/1",
+                                            "sortorder": 0,
+                                            "sortme": 19.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 4844043,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417097,
+                                            "runner": "Pete Buttigieg",
+                                            "handicap": 0.0,
+                                            "currentPrice": 21.0,
+                                            "fractionPrice": "21/1",
+                                            "sortorder": 0,
+                                            "sortme": 21.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 4473222,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417094,
+                                            "runner": "Tulsi Gabbard",
+                                            "handicap": 0.0,
+                                            "currentPrice": 26.0,
+                                            "fractionPrice": "26/1",
+                                            "sortorder": 0,
+                                            "sortme": 26.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417104,
+                                            "runner": "Oprah Winfrey",
+                                            "handicap": 0.0,
+                                            "currentPrice": 26.0,
+                                            "fractionPrice": "26/1",
+                                            "sortorder": 0,
+                                            "sortme": 26.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202417106,
+                                            "runner": "Bernie Sanders",
+                                            "handicap": 0.0,
+                                            "currentPrice": 33.0,
+                                            "fractionPrice": "33/1",
+                                            "sortorder": 0,
+                                            "sortme": 33.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 641676,
+                                            "forceSign": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "gamePath": "/specials/us-elections-betting/2020-democratic-vice-presidential-candidate-03-24-2020-750-1875238/",
+            "statsPath": null
+        },
+        {
+            "gameId": 1681754,
+            "gameDate": "2020-06-05T00: 00: 00.000Z",
+            "betRadarExternalId": null,
+            "homeScore": null,
+            "awayScore": null,
+            "gamePeriod": null,
+            "gameHasLiveBetting": false,
+            "moreBettingCount": 0,
+            "hasStats": 0,
+            "gameDay": "20200604",
+            "okForBetOpinions": false,
+            "gameName": "2020 Republican Presidential Nominee",
+            "gameTranslation": null,
+            "url": "section=events\u0026amp;eventTypeID=750\u0026amp;gameID=1681754\u0026amp;moreBets=true",
+            "mobileUrl": "action=events.events\u0026amp;etID=750\u0026amp;gameID=1681754",
+            "betTypeGroups": [
+                {
+                    "betTypeId": 180,
+                    "bettingType": "",
+                    "betTypes": [
+                        {
+                            "bettingType": "",
+                            "bettingTypeOrder": 0,
+                            "bettingTypeExtraInfo": "",
+                            "translation": "",
+                            "multipleWinners": false,
+                            "betTypeId": 180,
+                            "betTypeOrder": 1,
+                            "betTypeGroupingsCategoryId": null,
+                            "events": [
+                                {
+                                    "eventCategoryName": "Specials",
+                                    "eventGroupId": 59627739,
+                                    "eventDate": "2020-03-30T17: 01: 00.000Z",
+                                    "eventId": 59627739,
+                                    "places": 1,
+                                    "placeDiv": 1,
+                                    "live": true,
+                                    "narrative": null,
+                                    "future": true,
+                                    "sortEventBy": "RunnerID",
+                                    "priceDisplay": "decimal",
+                                    "distinctGames": 1,
+                                    "secondHalfOrdering": 0,
+                                    "pinataPick": false,
+                                    "runners": [
+                                        {
+                                            "runnerId": 169936742,
+                                            "runner": "Anyone other than Donald Trump",
+                                            "handicap": 0.0,
+                                            "currentPrice": 15.0,
+                                            "fractionPrice": "15/1",
+                                            "sortorder": 0,
+                                            "sortme": 169936742.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 2591768,
+                                            "forceSign": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "gamePath": "/specials/us-elections-betting/2020-republican-presidential-nominee-06-04-2020-750-1681754/",
+            "statsPath": null
+        },
+        {
+            "gameId": 1875240,
+            "gameDate": "2020-07-16T00: 00: 00.000Z",
+            "betRadarExternalId": null,
+            "homeScore": null,
+            "awayScore": null,
+            "gamePeriod": null,
+            "gameHasLiveBetting": false,
+            "moreBettingCount": 0,
+            "hasStats": 0,
+            "gameDay": "20200715",
+            "okForBetOpinions": false,
+            "gameName": "2020 Democratic Convention",
+            "gameTranslation": null,
+            "url": "section=events\u0026amp;eventTypeID=750\u0026amp;gameID=1875240\u0026amp;moreBets=true",
+            "mobileUrl": "action=events.events\u0026amp;etID=750\u0026amp;gameID=1875240",
+            "betTypeGroups": [
+                {
+                    "betTypeId": 180,
+                    "bettingType": "",
+                    "betTypes": [
+                        {
+                            "bettingType": "",
+                            "bettingTypeOrder": 0,
+                            "bettingTypeExtraInfo": "- Will it be brokered?",
+                            "translation": "",
+                            "multipleWinners": false,
+                            "betTypeId": 180,
+                            "betTypeOrder": 1,
+                            "betTypeGroupingsCategoryId": null,
+                            "events": [
+                                {
+                                    "eventCategoryName": "Specials",
+                                    "eventGroupId": 71759821,
+                                    "eventDate": "2020-03-30T17: 02: 00.000Z",
+                                    "eventId": 71759821,
+                                    "places": 1,
+                                    "placeDiv": 1,
+                                    "live": true,
+                                    "narrative": "No candidate will have the number of delegates necessary to be chosen as the Nominee on the first ballot .",
+                                    "future": true,
+                                    "sortEventBy": "RunnerID",
+                                    "priceDisplay": "decimal",
+                                    "distinctGames": 1,
+                                    "secondHalfOrdering": 0,
+                                    "pinataPick": false,
+                                    "runners": [
+                                        {
+                                            "runnerId": 202418149,
+                                            "runner": "Yes",
+                                            "handicap": 0.0,
+                                            "currentPrice": 7.0,
+                                            "fractionPrice": "7/1",
+                                            "sortorder": 0,
+                                            "sortme": 202418149.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 606492,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 202418150,
+                                            "runner": "No",
+                                            "handicap": 0.0,
+                                            "currentPrice": 0.04,
+                                            "fractionPrice": "1/25",
+                                            "sortorder": 0,
+                                            "sortme": 202418150.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 606493,
+                                            "forceSign": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "gamePath": "/specials/us-elections-betting/2020-democratic-convention-07-15-2020-750-1875240/",
+            "statsPath": null
+        },
+        {
+            "gameId": 1681753,
+            "gameDate": "2020-07-16T00: 00: 00.000Z",
+            "betRadarExternalId": null,
+            "homeScore": null,
+            "awayScore": null,
+            "gamePeriod": null,
+            "gameHasLiveBetting": false,
+            "moreBettingCount": 0,
+            "hasStats": 0,
+            "gameDay": "20200715",
+            "okForBetOpinions": false,
+            "gameName": "2020 Democratic Presidential Nominee",
+            "gameTranslation": null,
+            "url": "section=events\u0026amp;eventTypeID=750\u0026amp;gameID=1681753\u0026amp;moreBets=true",
+            "mobileUrl": "action=events.events\u0026amp;etID=750\u0026amp;gameID=1681753",
+            "betTypeGroups": [
+                {
+                    "betTypeId": 180,
+                    "bettingType": "",
+                    "betTypes": [
+                        {
+                            "bettingType": "",
+                            "bettingTypeOrder": 0,
+                            "bettingTypeExtraInfo": "",
+                            "translation": "",
+                            "multipleWinners": false,
+                            "betTypeId": 180,
+                            "betTypeOrder": 1,
+                            "betTypeGroupingsCategoryId": null,
+                            "events": [
+                                {
+                                    "eventCategoryName": "Specials",
+                                    "eventGroupId": 59627335,
+                                    "eventDate": "2020-03-30T17: 01: 00.000Z",
+                                    "eventId": 59627335,
+                                    "places": 1,
+                                    "placeDiv": 1,
+                                    "live": true,
+                                    "narrative": "Others on request.",
+                                    "future": true,
+                                    "sortEventBy": "currentPrice",
+                                    "priceDisplay": "decimal",
+                                    "distinctGames": 1,
+                                    "secondHalfOrdering": 0,
+                                    "pinataPick": false,
+                                    "runners": [
+                                        {
+                                            "runnerId": 169935734,
+                                            "runner": "Joe Biden",
+                                            "handicap": 0.0,
+                                            "currentPrice": 0.03,
+                                            "fractionPrice": "3/100",
+                                            "sortorder": 0,
+                                            "sortme": 0.03,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 1533268,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 169935747,
+                                            "runner": "Hillary Clinton",
+                                            "handicap": 0.0,
+                                            "currentPrice": 8.0,
+                                            "fractionPrice": "8/1",
+                                            "sortorder": 0,
+                                            "sortme": 8.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 641675,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 169935752,
+                                            "runner": "Andrew Cuomo",
+                                            "handicap": 0.0,
+                                            "currentPrice": 15.0,
+                                            "fractionPrice": "15/1",
+                                            "sortorder": 0,
+                                            "sortme": 15.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 169935735,
+                                            "runner": "Bernie Sanders",
+                                            "handicap": 0.0,
+                                            "currentPrice": 17.0,
+                                            "fractionPrice": "17/1",
+                                            "sortorder": 0,
+                                            "sortme": 17.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 641676,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 169935749,
+                                            "runner": "Michelle Obama",
+                                            "handicap": 0.0,
+                                            "currentPrice": 40.0,
+                                            "fractionPrice": "40/1",
+                                            "sortorder": 0,
+                                            "sortme": 40.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "gamePath": "/specials/us-elections-betting/2020-democratic-presidential-nominee-07-15-2020-750-1681753/",
+            "statsPath": null
+        },
+        {
+            "gameId": 1050831,
+            "gameDate": "2020-11-03T00: 00: 00.000Z",
+            "betRadarExternalId": null,
+            "homeScore": null,
+            "awayScore": null,
+            "gamePeriod": null,
+            "gameHasLiveBetting": false,
+            "moreBettingCount": 0,
+            "hasStats": 0,
+            "gameDay": "20201102",
+            "okForBetOpinions": false,
+            "gameName": "2020 US Presidential Election",
+            "gameTranslation": null,
+            "url": "section=events\u0026amp;eventTypeID=750\u0026amp;gameID=1050831\u0026amp;moreBets=true",
+            "mobileUrl": "action=events.events\u0026amp;etID=750\u0026amp;gameID=1050831",
+            "betTypeGroups": [
+                {
+                    "betTypeId": 180,
+                    "bettingType": "",
+                    "betTypes": [
+                        {
+                            "bettingType": "",
+                            "bettingTypeOrder": 0,
+                            "bettingTypeExtraInfo": "- Outright",
+                            "translation": "",
+                            "multipleWinners": false,
+                            "betTypeId": 180,
+                            "betTypeOrder": 1,
+                            "betTypeGroupingsCategoryId": null,
+                            "events": [
+                                {
+                                    "eventCategoryName": "Specials",
+                                    "eventGroupId": 21821880,
+                                    "eventDate": "2020-03-30T17: 00: 00.000Z",
+                                    "eventId": 21821880,
+                                    "places": 1,
+                                    "placeDiv": 1,
+                                    "live": true,
+                                    "narrative": null,
+                                    "future": true,
+                                    "sortEventBy": "currentPrice",
+                                    "priceDisplay": "decimal",
+                                    "distinctGames": 1,
+                                    "secondHalfOrdering": 0,
+                                    "pinataPick": false,
+                                    "runners": [
+                                        {
+                                            "runnerId": 67996384,
+                                            "runner": "Donald Trump",
+                                            "handicap": 0.0,
+                                            "currentPrice": 0.91,
+                                            "fractionPrice": "91/100",
+                                            "sortorder": 0,
+                                            "sortme": 0.91,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 633620,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 67996443,
+                                            "runner": "Joe Biden",
+                                            "handicap": 0.0,
+                                            "currentPrice": 1.1,
+                                            "fractionPrice": "11/10",
+                                            "sortorder": 0,
+                                            "sortme": 1.1,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 67996389,
+                                            "runner": "Mike Pence",
+                                            "handicap": 0.0,
+                                            "currentPrice": 25.0,
+                                            "fractionPrice": "25/1",
+                                            "sortorder": 0,
+                                            "sortme": 25.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 803536,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 67996388,
+                                            "runner": "Hillary Clinton",
+                                            "handicap": 0.0,
+                                            "currentPrice": 33.0,
+                                            "fractionPrice": "33/1",
+                                            "sortorder": 0,
+                                            "sortme": 33.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 641675,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 67996408,
+                                            "runner": "Bernie Sanders",
+                                            "handicap": 0.0,
+                                            "currentPrice": 33.0,
+                                            "fractionPrice": "33/1",
+                                            "sortorder": 0,
+                                            "sortme": 33.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 641676,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 67996412,
+                                            "runner": "Michelle Obama",
+                                            "handicap": 0.0,
+                                            "currentPrice": 100.0,
+                                            "fractionPrice": "100/1",
+                                            "sortorder": 0,
+                                            "sortme": 100.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 0,
+                                            "forceSign": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "gamePath": "/specials/us-elections-betting/2020-us-presidential-election-11-02-2020-750-1050831/",
+            "statsPath": null
+        },
+        {
+            "gameId": 1050850,
+            "gameDate": "2020-11-03T00: 00: 00.000Z",
+            "betRadarExternalId": null,
+            "homeScore": null,
+            "awayScore": null,
+            "gamePeriod": null,
+            "gameHasLiveBetting": false,
+            "moreBettingCount": 0,
+            "hasStats": 0,
+            "gameDay": "20201102",
+            "okForBetOpinions": false,
+            "gameName": "2020 US Presidential Election - Winning Party",
+            "gameTranslation": null,
+            "url": "section=events\u0026amp;eventTypeID=750\u0026amp;gameID=1050850\u0026amp;moreBets=true",
+            "mobileUrl": "action=events.events\u0026amp;etID=750\u0026amp;gameID=1050850",
+            "betTypeGroups": [
+                {
+                    "betTypeId": 180,
+                    "bettingType": "",
+                    "betTypes": [
+                        {
+                            "bettingType": "",
+                            "bettingTypeOrder": 0,
+                            "bettingTypeExtraInfo": "",
+                            "translation": "",
+                            "multipleWinners": false,
+                            "betTypeId": 180,
+                            "betTypeOrder": 1,
+                            "betTypeGroupingsCategoryId": null,
+                            "events": [
+                                {
+                                    "eventCategoryName": "Specials",
+                                    "eventGroupId": 21822708,
+                                    "eventDate": "2020-03-30T17: 01: 00.000Z",
+                                    "eventId": 21822708,
+                                    "places": 1,
+                                    "placeDiv": 1,
+                                    "live": true,
+                                    "narrative": null,
+                                    "future": true,
+                                    "sortEventBy": "currentPrice",
+                                    "priceDisplay": "decimal",
+                                    "distinctGames": 1,
+                                    "secondHalfOrdering": 0,
+                                    "pinataPick": false,
+                                    "runners": [
+                                        {
+                                            "runnerId": 68000291,
+                                            "runner": "Democrat",
+                                            "handicap": 0.0,
+                                            "currentPrice": 0.91,
+                                            "fractionPrice": "91/100",
+                                            "sortorder": 0,
+                                            "sortme": 0.91,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 744191,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 68000292,
+                                            "runner": "Republican",
+                                            "handicap": 0.0,
+                                            "currentPrice": 0.91,
+                                            "fractionPrice": "91/100",
+                                            "sortorder": 0,
+                                            "sortme": 0.91,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 744190,
+                                            "forceSign": true
+                                        },
+                                        {
+                                            "runnerId": 68000293,
+                                            "runner": "Independent",
+                                            "handicap": 0.0,
+                                            "currentPrice": 50.0,
+                                            "fractionPrice": "50/1",
+                                            "sortorder": 0,
+                                            "sortme": 50.0,
+                                            "asianBetTypeOrdering": 1.0,
+                                            "asianHandicapOrdering": null,
+                                            "teamId": 803617,
+                                            "forceSign": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "gamePath": "/specials/us-elections-betting/2020-us-presidential-election-winning-party-11-02-2020-750-1050850/",
+            "statsPath": null
+        }
+    ],
+    "eventType": {
+        "id": 750,
+        "narrative": "For betting purposes protests and overturned decisions are not recognized.",
+        "outrightBetTypeLabel": null,
+        "eventCategoryId": 16,
+        "name": "US Elections",
+        "eventCategoryName": "Specials"
+    },
+    "selectedBetType": "",
+    "newsFeed": {
+        "newsHtml": "",
+        "blogUrl": "",
+        "items": []
+    },
+    "displayAllEvents": true,
+    "futureBetTypes": [],
+    "otherBetTypes": [
+        {
+            "translation": "",
+            "bettingType": "",
+            "path": "/specials/us-elections-betting/",
+            "mainMarket": true
+        }
+    ],
+    "superBowlPath": "/football/super-bowl-betting/",
+    "banner": null,
+    "displayMainMarketsTable": false,
+    "mainMarketsUseTableDisplay": false,
+    "mostPopularCasinoGames": [
+        {
+            "name": "Premium Blackjack",
+            "code": "bjto",
+            "provider": "pt_seamless_casino",
+            "launchUrl": "https: //gamescas.pt.sportsinteraction.com/casino/casinoclient.html?game=bjto\u0026real=1",
+            "flashLaunchUrl": "https://cachedownloadcas.pt.sportsinteraction.com/casinoclient.html?game=bjto\u0026ngm=1\u0026preferedmode=real",
+            "imagePath": "mobile/casino/gallery/playtech/small/bjto.png",
+            "width": null,
+            "height": null,
+            "isNew": false,
+            "jackpotGameCode": null
+        },
+        {
+            "name": "Buffalo Blitz",
+            "code": "bfb",
+            "provider": "pt_seamless_casino",
+            "launchUrl": "https://gamescas.pt.sportsinteraction.com/casino/casinoclient.html?game=bfb\u0026real=1",
+            "flashLaunchUrl": "https://cachedownloadcas.pt.sportsinteraction.com/casinoclient.html?game=bfb\u0026ngm=1\u0026preferedmode=real",
+            "imagePath": "mobile/casino/gallery/playtech/small/bfb.png",
+            "width": null,
+            "height": null,
+            "isNew": false,
+            "jackpotGameCode": null
+        },
+        {
+            "name": "Kingdoms Rise scorching clouds",
+            "code": "gpas_krsclouds_pop",
+            "provider": "pt_seamless_casino",
+            "launchUrl": "https://gamescas.pt.sportsinteraction.com/casino/casinoclient.html?game=gpas_krsclouds_pop\u0026real=1",
+            "flashLaunchUrl": "https://cachedownloadcas.pt.sportsinteraction.com/casinoclient.html?game=gpas_krsclouds_pop\u0026ngm=1\u0026preferedmode=real",
+            "imagePath": "mobile/casino/gallery/playtech/small/gpas_krsclouds_pop.png",
+            "width": null,
+            "height": null,
+            "isNew": false,
+            "jackpotGameCode": null
+        },
+        {
+            "name": "Suicide Squad",
+            "code": "gpas_suicides_pop",
+            "provider": "pt_seamless_casino",
+            "launchUrl": "https://gamescas.pt.sportsinteraction.com/casino/casinoclient.html?game=gpas_suicides_pop\u0026real=1",
+            "flashLaunchUrl": "https://cachedownloadcas.pt.sportsinteraction.com/casinoclient.html?game=gpas_suicides_pop\u0026ngm=1\u0026preferedmode=real",
+            "imagePath": "mobile/casino/gallery/playtech/small/gpas_suicides_pop.png",
+            "width": null,
+            "height": null,
+            "isNew": true,
+            "jackpotGameCode": "dcjp-4"
+        },
+        {
+            "name": "Justice League",
+            "code": "jla",
+            "provider": "pt_seamless_casino",
+            "launchUrl": "https://gamescas.pt.sportsinteraction.com/casino/casinoclient.html?game=jla\u0026real=1",
+            "flashLaunchUrl": "https://cachedownloadcas.pt.sportsinteraction.com/casinoclient.html?game=jla\u0026ngm=1\u0026preferedmode=real",
+            "imagePath": "mobile/casino/gallery/playtech/small/jla.png",
+            "width": null,
+            "height": null,
+            "isNew": false,
+            "jackpotGameCode": "dcjp-4"
+        },
+        {
+            "name": "Retro Rush",
+            "code": "gpas_rrider_pop",
+            "provider": "pt_seamless_casino",
+            "launchUrl": "https://gamescas.pt.sportsinteraction.com/casino/casinoclient.html?game=gpas_rrider_pop\u0026real=1",
+            "flashLaunchUrl": "https://cachedownloadcas.pt.sportsinteraction.com/casinoclient.html?game=gpas_rrider_pop\u0026ngm=1\u0026preferedmode=real",
+            "imagePath": "mobile/casino/gallery/playtech/small/gpas_rrider_pop.png",
+            "width": null,
+            "height": null,
+            "isNew": false,
+            "jackpotGameCode": null
+        }
+    ],
+    "seoLdJsonData": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SportsEvent",
+            "name": "2020 Democratic Vice Presidential Candidate",
+            "homeTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "awayTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                }
+            ],
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": ""
+                }
+            },
+            "startDate": "2020-03-24T13:00:00-04:00",
+            "url": "https://m.sportsinteraction.com/specials/us-elections-betting/2020-democratic-vice-presidential-candidate-03-24-2020-750-1875238/"
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "SportsEvent",
+            "name": "2020 Republican Presidential Nominee",
+            "homeTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "awayTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                }
+            ],
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": ""
+                }
+            },
+            "startDate": "2020-06-04T20:00:00-04:00",
+            "url": "https://m.sportsinteraction.com/specials/us-elections-betting/2020-republican-presidential-nominee-06-04-2020-750-1681754/"
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "SportsEvent",
+            "name": "2020 Democratic Convention",
+            "homeTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "awayTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                }
+            ],
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": ""
+                }
+            },
+            "startDate": "2020-07-15T20:00:00-04:00",
+            "url": "https://m.sportsinteraction.com/specials/us-elections-betting/2020-democratic-convention-07-15-2020-750-1875240/"
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "SportsEvent",
+            "name": "2020 Democratic Presidential Nominee",
+            "homeTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "awayTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                }
+            ],
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": ""
+                }
+            },
+            "startDate": "2020-07-15T20:00:00-04:00",
+            "url": "https://m.sportsinteraction.com/specials/us-elections-betting/2020-democratic-presidential-nominee-07-15-2020-750-1681753/"
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "SportsEvent",
+            "name": "2020 US Presidential Election",
+            "homeTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "awayTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                }
+            ],
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": ""
+                }
+            },
+            "startDate": "2020-11-02T19:00:00-05:00",
+            "url": "https://m.sportsinteraction.com/specials/us-elections-betting/2020-us-presidential-election-11-02-2020-750-1050831/"
+        },
+        {
+            "@context": "http://schema.org",
+            "@type": "SportsEvent",
+            "name": "2020 US Presidential Election - Winning Party",
+            "homeTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "awayTeam": {
+                "@type": "SportsTeam",
+                "name": "",
+                "sport": "Specials"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": ""
+                }
+            ],
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": ""
+                }
+            },
+            "startDate": "2020-11-02T19:00:00-05:00",
+            "url": "https://m.sportsinteraction.com/specials/us-elections-betting/2020-us-presidential-election-winning-party-11-02-2020-750-1050850/"
+        }
+    ],
+    "virtualSportsStream": {
+        "category": {
+            "id": 8,
+            "name": "Virtual Sports",
+            "slug": "virtual-sports",
+            "path": "/casino-games/virtual-sports/"
+        },
+        "games": [
+            {
+                "name": "Virtual Tennis",
+                "code": "506",
+                "provider": "isoftbet",
+                "launchUrl": "/?action=games.launchGame\u0026gameId=506",
+                "flashLaunchUrl": "",
+                "imagePath": "mobile/games/gallery/isoftbet/small/6149.png",
+                "width": null,
+                "height": null,
+                "isNew": false,
+                "jackpotGameCode": ""
+            },
+            {
+                "name": "Virtual Football",
+                "code": "504",
+                "provider": "isoftbet",
+                "launchUrl": "/?action=games.launchGame\u0026gameId=504",
+                "flashLaunchUrl": "",
+                "imagePath": "mobile/games/gallery/isoftbet/small/6147.png",
+                "width": null,
+                "height": null,
+                "isNew": false,
+                "jackpotGameCode": ""
+            },
+            {
+                "name": "Instant Horses",
+                "code": "499",
+                "provider": "isoftbet",
+                "launchUrl": "/?action=games.launchGame\u0026gameId=499",
+                "flashLaunchUrl": "",
+                "imagePath": "mobile/games/gallery/isoftbet/small/6142.png",
+                "width": null,
+                "height": null,
+                "isNew": false,
+                "jackpotGameCode": ""
+            },
+            {
+                "name": "Instant Greyhounds",
+                "code": "498",
+                "provider": "isoftbet",
+                "launchUrl": "/?action=games.launchGame\u0026gameId=498",
+                "flashLaunchUrl": "",
+                "imagePath": "mobile/games/gallery/isoftbet/small/6141.png",
+                "width": null,
+                "height": null,
+                "isNew": false,
+                "jackpotGameCode": ""
+            },
+            {
+                "name": "Instant Trotting",
+                "code": "502",
+                "provider": "isoftbet",
+                "launchUrl": "/?action=games.launchGame\u0026gameId=502",
+                "flashLaunchUrl": "",
+                "imagePath": "mobile/games/gallery/isoftbet/small/6145.png",
+                "width": null,
+                "height": null,
+                "isNew": false,
+                "jackpotGameCode": ""
+            },
+            {
+                "name": "Instant Racing",
+                "code": "500",
+                "provider": "isoftbet",
+                "launchUrl": "/?action=games.launchGame\u0026gameId=500",
+                "flashLaunchUrl": "",
+                "imagePath": "mobile/games/gallery/isoftbet/small/6143.png",
+                "width": null,
+                "height": null,
+                "isNew": false,
+                "jackpotGameCode": ""
+            }
+        ]
+    }
+}"
+}
